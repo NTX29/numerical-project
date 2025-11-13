@@ -1,0 +1,20 @@
+# Dependencies (เราจะติดตั้งข้างใน Container)
+# node_modules
+
+# Build output (เราจะสร้างข้างใน Container)
+# .next
+
+# Docker files
+# Dockerfile
+# docker-compose.yml
+
+# Git
+# .git
+# .gitignore
+
+# Environment files
+# .env
+# .env.local
+
+# Readme
+# README.md
